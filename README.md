@@ -1,6 +1,6 @@
 # git-commit-protocol
 
-喜欢 Claude Code 的 git commit 提交风格，参考了 Claude Code 内部的 prompt 实现，写了这个 skill，让其他 AI coding 工具也能用同样的方式提交代码。
+参考了 Claude Code 内部的 prompt 实现，写了这个 skill，让其他 AI coding 工具也能用同样的方式提交代码。
 
 ## 它做了什么
 
